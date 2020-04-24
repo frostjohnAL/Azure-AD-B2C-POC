@@ -1,5 +1,7 @@
 # Azure-AD-B2C-POC
 
+URL: https://arkosetest2.b2clogin.com/arkosetest2.onmicrosoft.com/oauth2/v2.0/authorize?p=B2C_1A_SigninArkose&client_id=96392ea3-c9ca-49c2-b670-e3bb80512cc8&nonce=defaultNonce&redirect_uri=https%3A%2F%2Farkosetest2.onmicrosoft.com%2Freply&scope=openid&response_type=id_token&prompt=login
+
 ## Notes 
 
 For the file named B2C_1A_Captcha_TrustFrameworkExtensions.xml 
